@@ -1,3 +1,2 @@
 # git-github
-Just for demo
-My name is Divyamani Arya.
+This is a just for Demo purpose.
